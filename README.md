@@ -21,7 +21,7 @@ ToastView is a lightweight and highly customizable toast view for iOS. It allows
 To integrate `ToastView` into your Xcode project using CocoaPods, add the following to your `Podfile`:
 
 ```ruby
-pod 'ToastView', '~> 0.0.1'
+pod 'CustomToastView', '~> 0.0.1'
 
 ```
 Then run the following command in the terminal:
@@ -38,7 +38,7 @@ You can also integrate ToastView using Swift Package Manager. Follow these steps
 2. Enter the repository URL:
 
 ```ruby
-https://github.com/AliHasnatTahir/ToastView
+https://github.com/AliHasnatTahir/CustomToastView
 ```
 
 3. Select the version you want and click Add Package.
@@ -49,7 +49,7 @@ https://github.com/AliHasnatTahir/ToastView
 Import the ToastView library:
 
 ```ruby
-import ToastView
+import CustomToastView
 ```
 
 Display a toast with an image and text:
